@@ -1,4 +1,4 @@
 # Hex to RGB color converter
 
-[View Demo](https://github.com/facebook/create-react-app)
+[View Demo](https://letsget.github.io/hex-to-rgb-with-typescript/)
 
